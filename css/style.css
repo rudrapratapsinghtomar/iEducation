@@ -80,6 +80,7 @@ html{
 
 .firstsection{
     height: 100vh;
+    background-image: url("../tree.jpg");
 }
 
 .box-main{
@@ -176,7 +177,9 @@ html{
 }
 
 .thumbnail img{
+    background-size: cover;
     width: 250px;
+    height: 270px;
     border: 2px solid black;
     border-radius: 26px;
     margin-top: 19px;

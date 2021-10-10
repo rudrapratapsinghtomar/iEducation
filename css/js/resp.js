@@ -8,5 +8,5 @@ burger.addEventlistener('click' , ()=>{
     rightnav.classlist.toggle('v-class-resp');
     navlist.classlist.toggle('v-class-resp');
     navbar.classlist.toggle('h-nav-resp');
-
+    
 })
