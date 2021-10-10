@@ -16,9 +16,10 @@ html{
     align-items: center;
 }
 .logo img{
-    width: 26%;
+    width: 40px;
+    height: 40px;
     border: 3px solid white;
-    border-radius: 50px;
+    border-radius: 50%;
     margin: 5px;
 }
 .navbar{
@@ -107,7 +108,9 @@ html{
 }
 
 .secondhalf img{
-    width: 70%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
     border: 4px solid white;
     border-radius: 150px;
     display: block;
